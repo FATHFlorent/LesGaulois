@@ -1,3 +1,5 @@
+package personnages;
+
 public class Village {
 	public String nom;
 	public int nbVillageois = 0;
